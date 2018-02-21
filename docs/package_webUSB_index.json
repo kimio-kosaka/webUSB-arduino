@@ -1,0 +1,34 @@
+
+{
+  "packages": [
+    {
+      "name": "webUSB",
+      "maintainer": "Google/modified by Kosaka.Lab.",
+      "websiteURL": "https://github.com/kimio-kosaka/bitDuino10",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "webUSB",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/kimio-kosaka/bitDuino10/archive/v1.0.0.tar.gz",
+          "archiveFileName": "bitDuino10-1.0.0.tar.gz",
+          "checksum": "SHA-256:71f6f2f9c63e5323ea73ddc372b27714e73cb776e32d2370684a7291baaee1c1",
+          "size": "29216",
+          "boards": [
+            {"name": "Leonard"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
