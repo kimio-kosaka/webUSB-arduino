@@ -20,8 +20,8 @@
           },
           "url": "https://github.com/kimio-kosaka/webUSB-arduino/archive/v1.0.0.tar.gz",
           "archiveFileName": "webUSB-arduino-1.0.0.tar.gz",
-          "checksum": "SHA-256:f45a661c0c9596f7d4196153e9f87fd2946163518354ee05047f3ece8226059c",
-          "size": "232283",
+          "checksum": "SHA-256:d01d0a9fa88a12479981fb68ede632b5a2eafd33a2ae526774b651a6211818c0",
+          "size": "232294",
           "boards": [
             {"name": "Leonardo (WebUSB)"},{"name": "Micro (WebUSB)"}
           ],
