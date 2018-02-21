@@ -27,7 +27,7 @@ Getting Started
 1. Install at least version 1.8.5 of the [Arduino IDE](https://www.arduino.cc/en/Main/Software).
 
 2. Install WebUSB/arduino environment by Board Manager of Arduino IDE<br />
-  https://kimio-kosaka.github.io/webUSB-arduino/package_webUSB_index.json
+  Use this package json --> https://kimio-kosaka.github.io/webUSB-arduino/package_webUSB_index.json
 
 3. Select WebUSB board<br />
   Tools --> Board --> 'Arduino Micro (WebUSB)' or 'Arduino Leonardo (WebUSB)'
