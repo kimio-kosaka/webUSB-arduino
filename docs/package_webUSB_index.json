@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "WebUSB",
-      "maintainer": "Google/modified by Kosaka.Lab.",
+      "maintainer": "reillyeon/modified by kimio_kosaka.",
       "websiteURL": "https://github.com/kimio-kosaka/webUSB-arduino",
       "email": "",
       "help": {
